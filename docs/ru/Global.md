@@ -27,7 +27,7 @@ LANG LANG=en
 
 ### SET_TIMEZONE
 
-[Смена часового пояса](/ru/System/#set_timezone) .
+[Сменить часовой пояс](/ru/System/#set_timezone) можно этом макросом.
 
 ---
 
